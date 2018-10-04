@@ -1,0 +1,21 @@
+---
+title: "This is a post made it to verify is disqus is working"
+author: "Dylan Padilla"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+I'm just going to plot something here:
+
+
+```{r, echo = TRUE}
+data(iris)
+names(iris)
+plot(Sepal.Length ~ Sepal.Width, data = iris, type = "p")
+abline(lm(Sepal.Length ~ Sepal.Width, data = iris), lwd = 1.5, col = "red")
+```
