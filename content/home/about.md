@@ -30,4 +30,8 @@ weight = 5
 
 # Biography
 
-I am a master's student in Ecology and Evolution at the Federal University of São Paulo, but I am actually a member of Carlos Navas's lab at he University of São Paulo. My master's thesis focuses on the cost-benefit analysis of behaviors. To be more specific, I am analizing the trade off between behavioral thermoregulation and water balance in the tropidurid lizard *Tropidurus catalanensis*. My research interest also includes patterns of traits evolution (Macroevolution) in reptiles lineages. Some questions I like to address are How the investment in specialized structures affects the fitness?, What drives the evolution of dorsal coloration in reptiles?, How reptiles lineages diversify? 
+Hey! Thanks for visiting my web site. If you find anything useful, please let me know. If you would suggest improvements, please do.
+
+I am a master's student in Ecology and Evolution at the Federal [University of São Paulo](http://www.unifesp.br), but I spend most of the time working at Carlos Navas's lab [University of São Paulo](http://www.ib.usp.br/ensino/pos-graduacao.html). My master's thesis focuses on modeling the costs and benefits of animal behaviors. To be more specific, I am analizing the trade off between behavioral thermoregulation and water balance in the tropidurid lizard *Tropidurus catalanensis*. My research interest also includes the analysis of the evolution of morphological and/or physiological traits in reptiles lineages. Some questions I like to address are: How the investment in specialized structures affects the fitness?, What drives the evolution of dorsal coloration in reptiles?, How reptiles lineages diversify?
+
+If you are interested in the same topics I mentioned above and want to work with me in the future, feel free to contact me.
