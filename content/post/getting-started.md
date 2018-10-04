@@ -19,9 +19,8 @@ caption = ""
 
 I'm just going to plot something here:
 
-```
-data(iris)
-head(iris)
-plot(Sepal.Length ~ Sepal.Width, data = iris, type = "p")
-abline(lm(Sepal.Length ~ Sepal.Width, data = iris), lwd = 1.5, col = "red")
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
 ```
