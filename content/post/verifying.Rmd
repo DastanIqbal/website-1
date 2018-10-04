@@ -10,6 +10,8 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
+# Plotting
+
 I'm just going to plot something here:
 
 
