@@ -19,7 +19,7 @@ caption = ""
 
 I'm just going to plot something here:
 
-```{r echo = TRUE, cache = TRUE, fig.align = "center"}
+```
 data(iris)
 head(iris)
 plot(Sepal.Length ~ Sepal.Width, data = iris, type = "p")
