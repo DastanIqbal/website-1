@@ -1,0 +1,33 @@
++++
+# About/Biography widget.
+widget = "about"
+active = true
+date = 2018-09-19T00:00:00
+
+# Order that this section will appear in.
+weight = 5
+
+# List your academic interests.
+[interests]
+  interests = [
+    "Evolutionary Biology",
+    "Ecophysiology",
+    "Programming (R software)"
+  ]
+
+# List your qualifications (such as academic degrees).
+
+[[education.courses]]
+  course = "Masters in Ecology and Evolution"
+  institution = "Federal University of Sao Paulo (UNIFESP) - Current"
+
+[[education.courses]]
+  course = "BSc in Biology"
+  institution = "Universidad del Atlantico"
+  year = 2016
+ 
++++
+
+# Biography
+
+I am a master's student in Ecology and Evolution at the Federal University of São Paulo, but I actually work at Carlos Navas's lab at he University of São Paulo. My master's thesis focuses on the cost-benefit analysis of behaviors. To be more specific, I am, along with my supervisors Carlos Navas and Jose Eduardo de Carvalho, analizing the trade off between behavioral thermoregulation and water balance in the tropidurid lizard *Tropidurus catalanensis*. My research interest also includes patterns of traits evolution (Macroevolution) in reptiles lineages. Some questions I like to address are How the investment in specialized structures affect the fitness?, What drives the evolution of dorsal coloration in reptiles?, How reptiles lineages diversify? 

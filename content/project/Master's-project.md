@@ -1,0 +1,31 @@
++++
+# Date this page was created.
+date = 2018-09-19T18:02:00
+
+# Project title.
+title = "Master's thesis"
+
+# Project summary to display on homepage.
+summary = "Costs and benefits of behavioral thermoregulation"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "tropidurus.jpeg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["Master's thesis"]`
+tags = ["Master's thesis"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "tropidurus.jpeg"
+caption = "Photo by Danilo Giacometti :smile:"
+
++++
+
+Most reptiles actively thermoregulate by using behavioral adjustments to achieve and maintain their preferred body temperature. However, the pursuit of a thermal optima is accompanied by a trade–off with potential water loss. likewise, there are a wide range of other life–history traits that governed behavioral thermoregulation, such as food consumption. Hence, thermoregulatory behavior should be a trade–off among all these physiological activities. The aim of this study was to test the hypothesis that the relationship between behavioral thermoregulation and water balance can be modulated by food consumption in the lizard *Tropidurus catalanensis*. In order to accomplish this, we did fieldwork to collect the lizards and brought them to the laboratory, where we manipulated their physiological state and measured their preferred ambient temperature. We used a linear model, in order to investigate the effect of the food consumption as a factor variable and plasma osmolality as a covariate, on the preferred ambient temperature selected by the lizards in a thermal gradient. So far, we found a significant interaction between plasma osmolality and food consumption. This means that food consumption and posterior digestion process carried out by the lizards shift the balance of the trade–off between behavioral thermoregulation and water balance. We also found that the tropidurid lizard *T. catalanensis* can tolerate a relatively wide range of plasma osmolality. Moreover, this species showed preferences for relatively high ambient temperatures compared to other species of the same genus, supporting our idea that thermoregulation seems to be always necessary for them regardless their hydration state. 

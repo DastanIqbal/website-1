@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dylan</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Dylan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 20:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What drives the evolution of dorsal coloration in tropidurid lizards?</title>
+      <link>/project/color/</link>
+      <pubDate>Wed, 19 Sep 2018 20:00:00 -0300</pubDate>
+      
+      <guid>/project/color/</guid>
+      <description>Whether the color of an animal plays a significant role in thermoregulation has been a persistent question in studies of thermal biology of ectotherms. This research project is based on the synthesis of the color-mediated thermoregulation hypothesis which states that dark individuals (i.e. lower skin reflectance) are at an advantage under conditions of low temperature since they warm up faster than light individuals at a given level of solar radiation. Although skin color is an important trait in the thermal biology of ectotherms, it has been explored mostly in insects and some reptiles of temperate zones.</description>
+    </item>
+    
+    <item>
+      <title>Master&#39;s thesis</title>
+      <link>/project/masters-project/</link>
+      <pubDate>Wed, 19 Sep 2018 18:02:00 -0300</pubDate>
+      
+      <guid>/project/masters-project/</guid>
+      <description>Most reptiles actively thermoregulate by using behavioral adjustments to achieve and maintain their preferred body temperature. However, the pursuit of a thermal optima is accompanied by a trade–off with potential water loss. likewise, there are a wide range of other life–history traits that governed behavioral thermoregulation, such as food consumption. Hence, thermoregulatory behavior should be a trade–off among all these physiological activities. The aim of this study was to test the hypothesis that the relationship between behavioral thermoregulation and water balance can be modulated by food consumption in the lizard Tropidurus catalanensis.</description>
+    </item>
+    
+  </channel>
+</rss>
