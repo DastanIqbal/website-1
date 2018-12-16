@@ -20,7 +20,11 @@ Theory predicts that animals should employ honest signals of resource holding po
 
 Doctoral student Zack Graham is highly interested in the above topic and is conducting several experiments on the Crayfish *Faxonius virilis* with my help at Michael Angilletta's lab. One of the objectives of his work is to test whether body size of the Crayfish is a reliable signal of strength. You can see below an interesting video of what we are doing right now. I am so excited to be learning from Zack's research and can't wait to see the final results. 
 
-![](/img/fight_res.mp4)
+
+<video width="320" height="240" controls>
+  <source src="/img/fight_res.mp4" type="video/mp4">
+  <source src="/img/fight_res.ogg" type="video/ogg">
+</video>
 
 ## Acknowledgments
 
