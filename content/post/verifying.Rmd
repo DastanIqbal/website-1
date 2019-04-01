@@ -1,5 +1,5 @@
 ---
-title: "This is a post made to verify if disqus is working"
+title: "This is a post made to verify whether disqus is working"
 author: "Dylan Padilla"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
