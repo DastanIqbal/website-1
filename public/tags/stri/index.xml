@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STRI on </title>
+    <link>/tags/stri/</link>
+    <description>Recent content in STRI on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/stri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internship at STRI - Panama</title>
+      <link>/2019/08/15/internship-at-stri-panama/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/15/internship-at-stri-panama/</guid>
+      <description>I am currently working at the Smithsonian Tropical Research Institute - Panama (STRI) on a really interesting long-term project lead by Mike Logan, Christian Cox and Owen McMillan. I was hired as an Intern to help them with a variety of activities, including lizard gathering, thermal tolerance experiments, data processing and statistical analyses.
+This research project aims to use genome-wide-association studies to identify genetic loci underlying variation in the thermal physiology of the slender anole lizard Anolis apletophallus (see pictures below), and to track changes in the frequencies of these loci in populations transplanted to islands in the Panama Canal.</description>
+    </item>
+    
+  </channel>
+</rss>

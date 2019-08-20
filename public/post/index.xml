@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dylan</title>
+    <title>Posts on </title>
     <link>/post/</link>
-    <description>Recent content in Posts on Dylan</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/2016/04/20/academic-the-website-designer-for-hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      <title>Internship at STRI - Panama</title>
+      <link>/2019/08/15/internship-at-stri-panama/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2016/04/20/academic-the-website-designer-for-hugo/</guid>
-      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
-
-Key features:
- Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
+      <guid>/2019/08/15/internship-at-stri-panama/</guid>
+      <description>I am currently working at the Smithsonian Tropical Research Institute - Panama (STRI) on a really interesting long-term project lead by Mike Logan, Christian Cox and Owen McMillan. I was hired as an Intern to help them with a variety of activities, including lizard gathering, thermal tolerance experiments, data processing and statistical analyses.
+This research project aims to use genome-wide-association studies to identify genetic loci underlying variation in the thermal physiology of the slender anole lizard Anolis apletophallus (see pictures below), and to track changes in the frequencies of these loci in populations transplanted to islands in the Panama Canal.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Are weapons (claws) dishonest or honest signals of strength in Crayfish?</title>
+      <link>/2018/12/15/territorial-behavior-in-crayfish/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/2018/12/15/territorial-behavior-in-crayfish/</guid>
+      <description>Animals routinely fight with conspecifics to resolve territorial disputes. For organisms that possess specialized structures that function as weapons, fighting performance depends strongly on the ability of these structures to inflict injuries on rival combatants. However, aggressive interactions between animals are potentially costly because of the energy required to fight and the risk of injury or death. Because of the inherent costs associated with escalating aggressive interactions, many animals resolve disputes without combat by signaling their own fighting potential and comparing this with the potential of their opponent.</description>
+    </item>
+    
+    <item>
+      <title>Does oxygen limit thermal tolerance in birds embryos?</title>
+      <link>/2018/12/15/does-oxygen-limit-thermal-tolerance-in-birds-embryos/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/15/does-oxygen-limit-thermal-tolerance-in-birds-embryos/</guid>
+      <description>The oxygen and capacity limited thermal tolerance (OCLTT) hypothesis has been proposed to explain thermal performance curves of animals by integrating various mechanisms from most levels of biological organization into a larger context of animal evolution. According to the OCLTT hypothesis, aerobic scope is typically presented as a curve with a maximum value close to the preferred body temperature and progressive declines in scope as temperature approaches upper or lower Tcrit.</description>
+    </item>
+    
+    <item>
+      <title>Internship at the Arizona State University (ASU)</title>
+      <link>/2018/10/25/internship-at-the-arizona-state-university-asu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/25/internship-at-the-arizona-state-university-asu/</guid>
+      <description>I am heading Arizona, US, next week in order to do an internship at the Arizona State University (ASU). I&amp;rsquo;ll be conducting a research project supervised by professor Michael Angilletta. To be brief, we are going to evaluate the effect of hypoxia on the thermal tolerance of lizards, so we are going to do some fieldwork combined with lab experiments. So excited to have this opportunity. Some pictures coming soon!</description>
     </item>
     
   </channel>
