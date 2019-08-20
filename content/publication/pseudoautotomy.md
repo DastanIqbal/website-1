@@ -22,11 +22,11 @@ publication = "In *Herpetology Notes*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "There are a variety of defense mechanisms that reptiles can exhibited, including camouflage, warning colorations, avoidance, among others. Probably, avoidance is the most common form of defense in reptiles. However, there are several interesting behaviors that some lizards and snakes can expressed other than avoidance, such as the ability to autotomize the distal part of the tail. There are two main types of deliberate tail loss, with and without regeneration of the broken tail. If you want to know a little bit more about this topic, please check our short note about a case of [non-specialized caudal pseudoautotomy in the Emerald Racer Snake](https://www.dropbox.com/home/AUTOTOMIA?preview=Non-specialized+caudal+pseudoautotomy+in+the+Emerald+Racer.pdf)." 
+abstract = "There are a variety of defense mechanisms that reptiles can exhibited, including camouflage, warning colorations, avoidance, among others. Probably, avoidance is the most common form of defense in reptiles. However, there are several interesting behaviors that some lizards and snakes can expressed other than avoidance, such as the ability to autotomize the distal part of the tail. There are two main types of deliberate tail loss, with and without regeneration of the broken tail. If you want to know a little bit more about this topic, please check our short note about a case of [non-specialized caudal pseudoautotomy in the Emerald Racer Snake](https://www.dropbox.com/s/pdwsg4p9oss6xov/Non-specialized%20caudal%20pseudoautotomy%20in%20the%20Emerald%20Racer.pdf?dl=0)." 
 
 
 
-abstract_short = "There are a variety of defense mechanisms that reptiles can exhibited, including camouflage, warning colorations, avoidance, among others. Probably, avoidance is the most common form of defense in reptiles. However, there are several interesting behaviors that some lizards and snakes can expressed other than avoidance, such as the ability to autotomize the distal part of the tail. There are two main types of deliberate tail loss, with and without regeneration of the broken tail. If you want to know a little bit more about this topic, please check our short note about a case of [non-specialized caudal pseudoautotomy in the Emerald Racer Snake](https://www.dropbox.com/home/AUTOTOMIA?preview=Non-specialized+caudal+pseudoautotomy+in+the+Emerald+Racer.pdf)."
+abstract_short = "There are a variety of defense mechanisms that reptiles can exhibited, including camouflage, warning colorations, avoidance, among others. Probably, avoidance is the most common form of defense in reptiles. However, there are several interesting behaviors that some lizards and snakes can expressed other than avoidance, such as the ability to autotomize the distal part of the tail. There are two main types of deliberate tail loss, with and without regeneration of the broken tail. If you want to know a little bit more about this topic, please check our short note about a case of [non-specialized caudal pseudoautotomy in the Emerald Racer Snake](https://www.dropbox.com/s/pdwsg4p9oss6xov/Non-specialized%20caudal%20pseudoautotomy%20in%20the%20Emerald%20Racer.pdf?dl=0)."
 
 
 # Featured image thumbnail (optional)
@@ -47,7 +47,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dropbox.com/home/AUTOTOMIA?preview=Non-specialized+caudal+pseudoautotomy+in+the+Emerald+Racer.pdf"
+url_pdf = "https://www.dropbox.com/s/pdwsg4p9oss6xov/Non-specialized%20caudal%20pseudoautotomy%20in%20the%20Emerald%20Racer.pdf?dl=0"
 
 
 # Custom links (optional).
