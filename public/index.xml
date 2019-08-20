@@ -1,39 +1,232 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dylan on Dylan</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content in Dylan on Dylan</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internship at STRI - Panama</title>
+      <link>/2019/08/15/internship-at-stri-panama/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/15/internship-at-stri-panama/</guid>
+      <description>&lt;p&gt;I am currently working at the &lt;a href=&#34;https://stri.si.edu&#34; target=&#34;_blank&#34;&gt;Smithsonian Tropical Research Institute - Panama&lt;/a&gt; (STRI) on a really interesting long-term project lead by &lt;a href=&#34;http://www.evolutioninthetropics.com&#34; target=&#34;_blank&#34;&gt;Mike Logan&lt;/a&gt;, &lt;a href=&#34;http://www.coxevolab.org&#34; target=&#34;_blank&#34;&gt;Christian Cox&lt;/a&gt; and &lt;a href=&#34;https://stri.si.edu/scientist/owen-mcmillan&#34; target=&#34;_blank&#34;&gt;Owen McMillan&lt;/a&gt;. I was hired as an Intern to help them with a variety of activities, including lizard gathering, thermal tolerance experiments, data processing and statistical analyses.&lt;/p&gt;
+
+&lt;p&gt;This research project aims to use genome-wide-association studies to identify genetic loci underlying variation in the thermal physiology
+of the slender anole lizard &lt;em&gt;Anolis apletophallus&lt;/em&gt; (see pictures below), and to track changes in the frequencies of these loci in populations transplanted to islands in the Panama Canal. These islands vary in their thermal landscapes such that some are much warmer than the mainland whereas others are similar in temperature to the mainland. To date, they have transplanted 700 individuals to 10 islands in Gatun Lake and this season we are transplanting lizards into another six islands. By conducting mark-recapture on the experimental islands, we will link phenotypic selection with genetic changes in real time, using the recently sequenced genome of &lt;em&gt;A. apletophallus&lt;/em&gt; to explore the functional roles of specific genes under selection. After several generations of evolution, this project will use population pedigrees to estimate the genetic correlations and heritabilities underlying traits involved in thermal adaptation and model the long-term evolutionary response of the slender anole to climate change.&lt;/p&gt;
+
+&lt;p&gt;It has been a great experince to be able to work with such a good team!&lt;/p&gt;
+
+&lt;p&gt;One of the coolest part of this project is the transplanting experiments. Every time we have to go to the islands we take a 20 min ferry trip to Barro Colorado Island (BCI), in which STRI has a research station and provides us with a boat to do our work. Below you can see some pictures of BCI (and John David Curlis [JDC] and me on the boat).&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
+  &lt;img src=&#34;/img/BCI_sign.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;
+  &lt;img src=&#34;/img/view_BCI.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
+  &lt;/br&gt;&lt;/br&gt;
+  &lt;img src=&#34;/img/on_boat.jpg&#34; width=&#34;500&#34; height=&#34;300&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As mentioned above, we are conducting thermal tolerance experiments with the lizards. That is, we are interested in determining the preferred body temperature, but also the upper and lower thermal voluntary limits of the lizards. Furthermore, we are quantifying dewlap, dorsal and ventral reflectance of the lizard since these are traits that can change over the time as they are introduced in novel environments (i.e., islands). Below I show some pictures of thermal gradients (upper left), JDC and &lt;a href=&#34;https://graphmyundergrad.rbind.io&#34; target=&#34;_blank&#34;&gt;Cleo Falvey&lt;/a&gt; measuring dewlap reflectance (upper right), me calculating the area of the dewlap&amp;rsquo;s yellow patch of an individual (lower left) and lizard clay models to determine predation rates on mainland as well as on islands (lower right).&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
+  &lt;img src=&#34;/img/thermal_gradient.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;
+  &lt;img src=&#34;/img/lab_work.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
+  &lt;img src=&#34;/img/color_analysis.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;
+  &lt;img src=&#34;/img/clay_models.jpg&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here are a couple of pictures of me holding two of the most interesting lizards we have found during field work. On the left I have a Bridled Anole &lt;em&gt;Anolis frenatus&lt;/em&gt; and on the right I have a Smooth Helmeted Iguana &lt;em&gt;Corytophanes cristatus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
+  &lt;img src=&#34;/img/A._frenatus.jpg&#34; width=&#34;500&#34; height=&#34;300&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
+  &lt;img src=&#34;/img/C._cristatus.jpg&#34; width=&#34;500&#34; height=&#34;300&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And this is the lizard team for this season (2019) in Gamboa!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/lizard_team.jpg&#34; alt=&#34;Lizard Team&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Are weapons (claws) dishonest or honest signals of strength in Crayfish?</title>
+      <link>/2018/12/15/territorial-behavior-in-crayfish/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/15/territorial-behavior-in-crayfish/</guid>
+      <description>
+
+&lt;p&gt;Animals routinely fight with conspecifics to resolve territorial disputes. For organisms that possess specialized structures that function as weapons, fighting performance depends strongly on the ability of these structures to inflict injuries on rival combatants. However, aggressive interactions between animals are potentially costly because of the energy required to fight and the risk of injury or death. Because of the inherent costs associated with escalating aggressive interactions, many animals resolve disputes without combat by signaling their own fighting potential and comparing this with the potential of their opponent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/crayfish1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Theory predicts that animals should employ honest signals of resource holding potential during competitive interactions unless the cost of assessing the honesty of a signal is relatively great and the cost of producing a deceptive signal is relatively small. Signals of weaponry or potential strength should be physically or physiologically linked to competitive ability such that poor competitors cannot produce a signal equivalent to that of a good competitor. Not surprisingly, few clear examples of dishonest signals of fighting potential exist. Because dishonest signals are designed to go unnoticed, their detection is difficult for researchers and conspecifics alike. Assessing the honesty of signals requires (1) analyses of the relationship between the visual signal and fighting capacity and (2) measures of the physical performance of the displayed weaponry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/crayfish2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Doctoral student Zack Graham is highly interested in the above topic and is conducting several experiments on the Crayfish &lt;em&gt;Faxonius virilis&lt;/em&gt; with my help at Michael Angilletta&amp;rsquo;s lab. One of the objectives of his work is to test whether claw size of the Crayfish is a reliable signal of strength. You can see below an interesting video of what we are doing right now. I am so excited to be learning from Zack&amp;rsquo;s research and can&amp;rsquo;t wait to see the final results.&lt;/p&gt;
+
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;/img/fight_res.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/fight_res.ogg&#34; type=&#34;video/ogg&#34;&gt;
+&lt;/video&gt;
+
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+
+&lt;p&gt;Thanks to Zack Graham for providing me with the video and pictures.&lt;/p&gt;
+
+&lt;h2 id=&#34;literature-consulted&#34;&gt;Literature consulted&lt;/h2&gt;
+
+&lt;p&gt;Wilson, R. S., Angilletta Jr, M. J., James, R. S., Navas, C., &amp;amp; Seebacher, F. (2007). Dishonest signals of strength in male slender crayfish (Cherax dispar) during agonistic encounters. The American Naturalist, 170(2), 284-291.&lt;/p&gt;
+
+&lt;p&gt;Bywater, C. L., Angilletta Jr, M. J., &amp;amp; Wilson, R. S. (2008). Weapon size is a reliable indicator of strength and social dominance in female slender crayfish (Cherax dispar). Functional Ecology, 22(2), 311-316.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;note&lt;/strong&gt;: within-text citations were omitted to make the post short.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Does oxygen limit thermal tolerance in birds embryos?</title>
+      <link>/2018/12/15/does-oxygen-limit-thermal-tolerance-in-birds-embryos/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/15/does-oxygen-limit-thermal-tolerance-in-birds-embryos/</guid>
+      <description>
+
+&lt;p&gt;The oxygen and capacity limited thermal tolerance (OCLTT) hypothesis has been proposed to explain thermal performance curves of animals by integrating various mechanisms from most levels of biological organization into a larger context of animal evolution. According to the OCLTT hypothesis, aerobic scope is typically presented as a curve with a maximum value close to the preferred body temperature and progressive declines in scope as temperature approaches upper or lower Tcrit. These reductions in scope are ascribed to progressive failure of the cardiorespiratory systems, and the OCLTT hypothesis therefore implies that as temperatures deviate from Topt, heart rates, gill ventilation rates, as well hemolymph oxygen levels are reduced.&lt;/p&gt;
+
+&lt;p&gt;Master&amp;rsquo;s student Jon Vimmerstedt is testing the OCLTT in embryos of &lt;em&gt;Coturnyx coturnyx&lt;/em&gt;. One of his prediction is that environmental oxygen availability (hypoxia) should depress thermal limits. It has been an interesting experience to work with Jon, I&amp;rsquo;ve learnt a lot!. Below I show some pictures of the experimental work we are doing currently.&lt;/p&gt;
+
+&lt;p&gt;Embryos being exposed to a relatively high temperature in a water bath system:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/set-up.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Embryo dissection:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/embryos.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Measuring heart rate of embryos:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/heart_rate.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the experiments we can relax!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/jon_me.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowlegments&#34;&gt;Acknowlegments&lt;/h2&gt;
+
+&lt;p&gt;Thanks to Jon Vimmerstedt for providing me with all the pictures.&lt;/p&gt;
+
+&lt;h2 id=&#34;literature-consulted&#34;&gt;Literature consulted&lt;/h2&gt;
+
+&lt;p&gt;Verberk, W. C., Overgaard, J., Ern, R., Bayley, M., Wang, T., Boardman, L., &amp;amp; Terblanche, J. S. (2016). Does oxygen limit thermal tolerance in arthropods? A critical review of current evidence. Comparative Biochemistry and Physiology Part A: Molecular &amp;amp; Integrative Physiology, 192, 64-78.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;note&lt;/strong&gt;: within-text citations were omitted to make the post short.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship at the Arizona State University (ASU)</title>
+      <link>/2018/10/25/internship-at-the-arizona-state-university-asu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/25/internship-at-the-arizona-state-university-asu/</guid>
+      <description>&lt;p&gt;I am heading Arizona, US, next week in order to do an internship at the Arizona State University (ASU). I&amp;rsquo;ll be conducting a research project supervised by professor Michael Angilletta. To be brief, we are going to evaluate the effect of hypoxia on the thermal tolerance of lizards, so we are going to do some fieldwork combined with lab experiments. So excited to have this opportunity. Some pictures coming soon!&lt;/p&gt;
+
+&lt;p&gt;Update:&lt;/p&gt;
+
+&lt;p&gt;As I promised, here are some pictures of the ASU and surrounders:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/asu.jpg&#34; alt=&#34;&amp;quot;ASU&amp;quot;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The ASU - Tempe Campus is located in a small city called Tempe, which is also known as Hayden&amp;rsquo;s Ferry during the territorial times of Arizona, is a city in Maricopa County, Arizona, United States. Tempe is located in the East Valley section of Phoenix; it is bordered by Phoenix and Guadalupe on the west, Scottsdale on the north, Chandler on the south, and Mesa on the east. Boy!, it is a really nice place with perfect weather conditions, good restaurants, bars and it is also one of the best places for an herpetologist. The city was built in the middle of the desert, so you can find a great variety of reptiles like the rattlesnakes, the gila monsters, etc. It is the BEST place, definitely!!&lt;/p&gt;
+
+&lt;p&gt;The energetic environment of the campus comprises broad pedestrian malls and eclectic architecture set amid subtropical landscaping. Landmarks include the iconic, century-old Palm Walk:&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;transform: rotate(90deg); width:550px&#34; src=&#34;/img/palm_walk.jpg&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sun Devil Stadium (in the back of the picture):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/sun_devil_stadium.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Memorial Union:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/memorial_union.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The International Scholars and Student Center:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/issc.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sciences building:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/sciences.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are some other nice buildings:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/building.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inside the Memorial Union you can find some good restaurants:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/restaurants.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are probably thousands of scooters around the city for short-distance transportation:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/curious.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Tempe campus is the most solar-powered of any in the U.S., and offers easy access to all of metropolitan Phoenix through public transit including light rail:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/light_rail.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the next post I&amp;rsquo;ll show you the research work we are conducting at Michael Angilletta&amp;rsquo;s lab.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What drives the evolution of dorsal coloration in tropidurid lizards?</title>
       <link>/project/color/</link>
-      <pubDate>Wed, 19 Sep 2018 20:00:00 -0300</pubDate>
+      <pubDate>Wed, 19 Sep 2018 20:00:00 -0500</pubDate>
       
       <guid>/project/color/</guid>
-      <description>&lt;p&gt;Whether the color of an animal plays a significant role in thermoregulation has been a persistent question in studies of thermal biology of ectotherms. This research project is based on the synthesis of the color-mediated thermoregulation hypothesis which states that dark individuals (i.e. lower skin reflectance) are at an advantage under conditions of low temperature since they warm up faster than light individuals at a given level of solar radiation. Although skin color is an important trait in the thermal biology of ectotherms, it has been explored mostly in insects and some reptiles of temperate zones. The aim of this project is to test the hypothesis that the dorsal color and climate variables such as mean annual temperature and global solar radiation (of the sample localities) are related across species of tropidurid lizards. Here, we will therefore examine the color-mediated thermoregulation hypothesis in a evolutionary context in heliothermic lizard species, using standard and phylogenetically corrected analyses. We expect that lizards with low skin reflectance occur at localities with relatively low mean annual temperature and solar radiation, conversely, lizards with high skin reflectance occur at localities with relatively high mean annual temperature and solar radiation.&lt;/p&gt;
+      <description>&lt;p&gt;Whether the color of an animal plays a significant role in thermoregulation has been a persistent question in studies of thermal biology of ectotherms. This research project is based on the synthesis of the color-mediated thermoregulation hypothesis which states that dark individuals (i.e. lower skin reflectance) are at an advantage under conditions of low temperature since they warm up faster than light individuals at a given level of solar radiation. Although skin color is an important trait in the thermal biology of ectotherms, it has been explored mostly in insects and some reptiles of temperate zones. The aim of this project is to determine whether the dorsal color changes among species of tropidurid lizards in response of physic and physiological variables such as mean annual temperature, global solar radiation and heating/cooling rates. Here, we will therefore examine the color-mediated thermoregulation hypothesis in a evolutionary context in heliothermic lizards, using standard and phylogenetically corrected analyses. We expect the lizards with low skin reflectance to occur at localities with relatively low mean annual temperature and solar radiation, conversely, lizards with high skin reflectance to occur at localities with relatively high mean annual temperature and solar radiation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Master&#39;s thesis</title>
       <link>/project/masters-project/</link>
-      <pubDate>Wed, 19 Sep 2018 18:02:00 -0300</pubDate>
+      <pubDate>Wed, 19 Sep 2018 18:02:00 -0500</pubDate>
       
       <guid>/project/masters-project/</guid>
-      <description>&lt;p&gt;Most reptiles actively thermoregulate by using behavioral adjustments to achieve and maintain their preferred body temperature. However, the pursuit of a thermal optima is accompanied by a trade–off with potential water loss. likewise, there are a wide range of other life–history traits that governed behavioral thermoregulation, such as food consumption. Hence, thermoregulatory behavior should be a trade–off among all these physiological activities. The aim of this study was to test the hypothesis that the relationship between behavioral thermoregulation and water balance can be modulated by food consumption in the lizard &lt;em&gt;Tropidurus catalanensis&lt;/em&gt;. In order to accomplish this, we did fieldwork to collect the lizards and brought them to the laboratory, where we manipulated their physiological state and measured their preferred ambient temperature. We used a linear model, in order to investigate the effect of the food consumption as a factor variable and plasma osmolality as a covariate, on the preferred ambient temperature selected by the lizards in a thermal gradient. So far, we found a significant interaction between plasma osmolality and food consumption. This means that food consumption and posterior digestion process carried out by the lizards shift the balance of the trade–off between behavioral thermoregulation and water balance. We also found that the tropidurid lizard &lt;em&gt;T. catalanensis&lt;/em&gt; can tolerate a relatively wide range of plasma osmolality. Moreover, this species showed preferences for relatively high ambient temperatures compared to other species of the same genus, supporting our idea that thermoregulation seems to be always necessary for them regardless their hydration state.&lt;/p&gt;
+      <description>&lt;p&gt;Theoretical models predict that lizards after meal consumption must maintain high and constant body temperatures by making behavioral adjustments. Still, behavioral thermoregulation can be affected by other physiological factors such as the hydration state, body condition or can conflict with the locomotor activity of animals. Hence, the thermoregulatory behavior of a lizard should be the result of interactions among all these physiological and ecological processes. In this study we aimed to investigate the role of food intake and the hydration state on behavioral thermoregulation and locomotor activity in the tropidurid lizard Tropidurus catalanensis. We hypothesized that food intake can influence behavioral thermoregulation via an interaction with the hydration state. We also hypothesized that lizards should endeavor to spend as little time as possible to reach their preferred body temperatures in order to defend other physiological and/or ecological functions. We combined field work and laboratory experiments in order to measure preferred environmental temperatures and total traveled distances of the lizards in fed and fasted states and with variable hydration state. Our results showed that food consumption and body condition of the lizards were the most important predictors of their preferred environmental temperatures. In contrast, either plasma osmolality by itself, or the interaction between plasma osmolality and food consumption did not have an important effect on the thermal preferences of lizards. Also, we found that the total traveled distances of lizards were unaffected by any of the predictors tested. We provided novel insights on the extent to which the interaction between meal consumption and the hydration state can influence behavioral thermoregulation and locomotor activity in a species of lizard that escapes the pattern of species commonly studied (e.g., desert reptiles). Our findings should be important to understand thermo–hydroregulation and decision making in lizards.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>t</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description></description>
@@ -42,7 +235,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -52,7 +245,7 @@
     <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -74,248 +267,12 @@
     </item>
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/2016/04/20/academic-the-website-designer-for-hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
-      
-      <guid>/2016/04/20/academic-the-website-designer-for-hugo/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A case of pseudoautotomy in the Emerald Racer snake</title>
       <link>/publication/pseudoautotomy/</link>
-      <pubDate>Sat, 12 Dec 2015 20:15:00 -0200</pubDate>
+      <pubDate>Sat, 12 Dec 2015 20:15:00 -0500</pubDate>
       
       <guid>/publication/pseudoautotomy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
     </item>
     
     <item>
