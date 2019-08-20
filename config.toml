@@ -13,7 +13,7 @@ title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Dylan J. Padilla-Perez 2018"
+copyright = "&copy; 2018"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -52,7 +52,7 @@ enableGitInfo = true
 
   # Your details.
   name = "Dylan J. Padilla-Perez"
-  role = "Master's student in Ecology and Evolution"
+  role = "M.S. in Ecology and Evolution"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -262,7 +262,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "https://www.dropbox.com/home?preview=2019_CV_Dylan_Padilla.pdf"
+    link = "https://www.dropbox.com/home?preview=CV_Dylan_2018_pdf.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -290,7 +290,6 @@ enableGitInfo = true
   name = "Projects"
   url = "#projects"
   weight = 4
-
 
 [[menu.main]]
   name = "Posts"
