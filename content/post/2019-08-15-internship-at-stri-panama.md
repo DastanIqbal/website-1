@@ -35,7 +35,7 @@ One of the coolest part of this project is the transplanting experiments. Every 
 </div>
 
 
-As mentioned above, we are conducting thermal tolerance experiments with the lizards. That is, we are interested in determining the preferred body temperature, but also the upper and lower thermal voluntary limits of the lizards. Furthermore, we are quantifying dewlap, dorsal and ventral reflectance of the lizard since these are traits that can change over the time as they are introduced in novel environments (i.e., islands). Below I show some pictures of thermal gradients (upper left), JDC and [Cleo Falvey](https://graphmyundergrad.rbind.io) measuring dewlap reflectance (upper right), me calculating the area of the dewlap's yellow patch of an individual (lower left) and lizard clay models to determine predation rates on mainland as well as on islands (lower right). 
+As mentioned above, we are conducting thermal tolerance experiments with the lizards. That is, we are interested in determining the preferred body temperature, but also the upper and lower thermal voluntary limits of the lizards. Furthermore, we are quantifying dewlap, dorsal and ventral reflectance of the lizard since these are traits that can change over the time as the lizards are introduced in novel environments (i.e., islands). Below I show some pictures of thermal gradients (upper left), JDC and [Cleo Falvey](https://graphmyundergrad.rbind.io) measuring dewlap reflectance (upper right), me calculating the area of the dewlap's yellow patch of an individual (lower left) and lizard clay models to determine predation rates on mainland as well as on islands (lower right). 
 
 
 <div class="row">
