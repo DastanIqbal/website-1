@@ -6,9 +6,18 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oxygen supply limits the heat tolerance of avian embryos</title>
+      <link>/publication/vimmerstedt_et_al_2019/</link>
+      <pubDate>Wed, 20 Nov 2019 20:15:00 -0500</pubDate>
+      
+      <guid>/publication/vimmerstedt_et_al_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Internship at STRI - Panama</title>
@@ -16,7 +25,7 @@
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/08/15/internship-at-stri-panama/</guid>
-      <description>&lt;p&gt;I am currently working at the &lt;a href=&#34;https://stri.si.edu&#34; target=&#34;_blank&#34;&gt;Smithsonian Tropical Research Institute - Panama&lt;/a&gt; (STRI) on a really interesting long-term project lead by &lt;a href=&#34;http://www.evolutioninthetropics.com&#34; target=&#34;_blank&#34;&gt;Mike Logan&lt;/a&gt;, &lt;a href=&#34;http://www.coxevolab.org&#34; target=&#34;_blank&#34;&gt;Christian Cox&lt;/a&gt; and &lt;a href=&#34;https://stri.si.edu/scientist/owen-mcmillan&#34; target=&#34;_blank&#34;&gt;Owen McMillan&lt;/a&gt;. I was hired as an Intern to help them with a variety of activities, including lizard gathering, thermal tolerance experiments, data processing and statistical analyses.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently working at the &lt;a href=&#34;https://stri.si.edu&#34; target=&#34;_blank&#34;&gt;Smithsonian Tropical Research Institute - Panama&lt;/a&gt; (STRI) on a really interesting long-term project led by &lt;a href=&#34;http://www.evolutioninthetropics.com&#34; target=&#34;_blank&#34;&gt;Mike Logan&lt;/a&gt;, &lt;a href=&#34;http://www.coxevolab.org&#34; target=&#34;_blank&#34;&gt;Christian Cox&lt;/a&gt; and &lt;a href=&#34;https://stri.si.edu/scientist/owen-mcmillan&#34; target=&#34;_blank&#34;&gt;Owen McMillan&lt;/a&gt;. I was hired as an Intern to help them with a variety of activities, including lizard gathering, thermal tolerance experiments, data processing and statistical analyses.&lt;/p&gt;
 
 &lt;p&gt;This research project aims to use genome-wide-association studies to identify genetic loci underlying variation in the thermal physiology
 of the slender anole lizard &lt;em&gt;Anolis apletophallus&lt;/em&gt; (see pictures below), and to track changes in the frequencies of these loci in populations transplanted to islands in the Panama Canal. These islands vary in their thermal landscapes such that some are much warmer than the mainland whereas others are similar in temperature to the mainland. To date, they have transplanted 700 individuals to 10 islands in Gatun Lake and this season we are transplanting lizards into another six islands. By conducting mark-recapture on the experimental islands, we will link phenotypic selection with genetic changes in real time, using the recently sequenced genome of &lt;em&gt;A. apletophallus&lt;/em&gt; to explore the functional roles of specific genes under selection. After several generations of evolution, this project will use population pedigrees to estimate the genetic correlations and heritabilities underlying traits involved in thermal adaptation and model the long-term evolutionary response of the slender anole to climate change.&lt;/p&gt;
@@ -36,7 +45,7 @@ of the slender anole lizard &lt;em&gt;Anolis apletophallus&lt;/em&gt; (see pictu
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;As mentioned above, we are conducting thermal tolerance experiments with the lizards. That is, we are interested in determining the preferred body temperature, but also the upper and lower thermal voluntary limits of the lizards. Furthermore, we are quantifying dewlap, dorsal and ventral reflectance of the lizard since these are traits that can change over the time as they are introduced in novel environments (i.e., islands). Below I show some pictures of thermal gradients (upper left), JDC and &lt;a href=&#34;https://graphmyundergrad.rbind.io&#34; target=&#34;_blank&#34;&gt;Cleo Falvey&lt;/a&gt; measuring dewlap reflectance (upper right), me calculating the area of the dewlap&amp;rsquo;s yellow patch of an individual (lower left) and lizard clay models to determine predation rates on mainland as well as on islands (lower right).&lt;/p&gt;
+&lt;p&gt;As mentioned above, we are conducting thermal tolerance experiments with the lizards. That is, we are interested in determining the preferred body temperature, but also the upper and lower thermal voluntary limits of the lizards. Furthermore, we are quantifying dewlap, dorsal and ventral reflectance of the lizard since these are traits that can change over the time as the lizards are introduced in novel environments (i.e., islands). Below I show some pictures of thermal gradients (upper left), JDC and &lt;a href=&#34;https://graphmyundergrad.rbind.io&#34; target=&#34;_blank&#34;&gt;Cleo Falvey&lt;/a&gt; measuring dewlap reflectance (upper right), me calculating the area of the dewlap&amp;rsquo;s yellow patch of an individual (lower left) and lizard clay models to determine predation rates on mainland as well as on islands (lower right).&lt;/p&gt;
 
 &lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-md-5&#34; markdown=&#34;1&#34;&gt;
