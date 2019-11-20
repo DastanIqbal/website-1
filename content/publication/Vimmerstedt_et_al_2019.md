@@ -1,7 +1,7 @@
 +++
 title = "Oxygen supply limits the heat tolerance of avian embryos"
 date = 2019-11-20T20:15:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jon C. Vimmerstedt", "Dylan J. Padilla Pérez", "Michael J. Angilletta Jr", "John M. VandenBrooks"]
@@ -68,6 +68,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "Vimmerstedt_paper.png"
-caption = " "
+caption = ""
 
 +++
