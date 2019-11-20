@@ -33,9 +33,10 @@ weight = 5
 
 Hey!! Thanks for visiting my website. If you find anything useful, please let me know. If you would suggest improvements, please do.
 
-I got a master's degree in Ecology and Evolution at the [Federal University of São Paulo](http://www.unifesp.br). I am interested in understanding patterns of traits evolution in reptile lineages. Within this context, I have been trying to spend most of my time learning about comparative methods in order to generate hypotheses and draw broad conclusions that can be applied to wide ranges of taxa. Particularly, I will be gathering physiological and ecological data from several species and using statistical analyses of the species means to make historical inferences. There are a variety of question I would like to address, including whether two traits have been linked with each other over evolutionary time, whether the rate of phenotypic evolution differs across two clades or in two different types of traits, or whether one trait has been subjected to greater phylogenetic constraint or inertia. 
+I got a master's degree in Ecology and Evolution at the [Federal University of São Paulo](http://www.unifesp.br). I am interested in understanding patterns of traits evolution in reptile lineages. Whithin this context, I have been trying to spend most of my time learning about comparative methods in order to generate hypotheses and draw broad conclusions that can be applied to wide ranges of taxa. Particularly, I will be gathering physiological and ecological data from several species and using statistical analyses of the species means to make historical inferences. There are a variety of question I would like to address, including whether two traits have been linked with each other over evolutionary time, whether the rate of phenotypic evolution differs across two clades or in two different types of traits, or whether one trait has been subjected to greater phylogenetic constraint or inertia. 
 
 If you are interested in the same topics I mentioned above and want to work with me in the future, feel free to contact me [here](mailto:dylan.padilla94@gmail.com).
+
 
 
 
