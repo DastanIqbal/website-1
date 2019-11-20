@@ -1,7 +1,7 @@
 +++
 title = "Oxygen supply limits the heat tolerance of avian embryos"
 date = 2019-11-20T20:15:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jon C. Vimmerstedt", "Dylan J. Padilla Pérez", "Michael J. Angilletta Jr", "John M. VandenBrooks"]
