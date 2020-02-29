@@ -13,7 +13,7 @@ title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -65,7 +65,7 @@ enableGitInfo = true
   email = "dylan.padilla94@gmail.com"
   address = "Ecophysiology and Evolutionary Physiology Lab (219), Biosciences Institute, University of São Paulo, Brazil."
   office_hours = ""
-  phone = "(11) 94910-6050"
+  phone = "(+57) 315 222-7347"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
